@@ -7,7 +7,7 @@ use FindBin;
 use lib "$FindBin::Bin/../lib";
 
 #use Data::Dumper;
-use Test::More tests => 11;
+use Test::More tests => 12;
 
 
 BEGIN { use_ok('Perl::ScriptRunner') };
