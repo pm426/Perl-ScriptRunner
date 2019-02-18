@@ -1,0 +1,6 @@
+Revision history for Perl extension Perl::ScriptRunner.
+
+0.01  Mon Jan 28 23:02:43 2019
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -b 5.16.1 -n Perl::ScriptRunner
+
